@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+gender,Indica o genêro do paciente,qualitativa,nominal
+age,Indica a idade do paciente,quantitativa,discreta
+hypertension,Indica se o paciente possui hipertensão,quantitativa,discreta
+heart_disease,Indica se o pacinete possui doença no coração,quantitativa,discreta
+smoking_history,Indica informações sobre o historico de fumante do paciente,qualitativa,nominal
+bmi,Indica o valor do IMC(Indice de Massa Corporal) do paciente,quantitativa,continua
+HbA1c_level,Indica o nivel de açucar presente no sangue do paciente nos últimos 2-3 meses,quantitativa,continua
+blood_glucose_level,Indica o nivel de glicose presente no sangue do paciente,quantitativa,discreta
+diabetes,Indica se o paciente possui diabetes,quantitativa,discreta
