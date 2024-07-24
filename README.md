@@ -1,4 +1,4 @@
-# Predição do Diabetes
+# Predição de Diabetes: Análise de Fatores de Risco e Classificação
 
 Este projeto tem como objetivo realizar previsões acerca do Diabetes, identificando padrões e tendências no conjunto de dados médicos e demográficos dos pacientes.
 O Diabetes é uma doença crônica que impacta mais de meio bilhão de pessoas globalmente, então ferramentas preditivas como esta tornaram-se necessárias com o aumento de casos da doença.
