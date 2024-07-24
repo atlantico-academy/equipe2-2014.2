@@ -6,8 +6,6 @@ Este projeto tem como objetivo realizar previsões acerca do Diabetes, identific
 ---
 É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
-##
-
 ## Desenvolvedores
  - [Maria Fernanda Cordeiro](https://github.com/Fernanda-Cordeiro)
  - [Nágila Duarte](https://github.com/NagilaDuarte)
