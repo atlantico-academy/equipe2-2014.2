@@ -1,12 +1,15 @@
 # Predição do Diabetes: Análise de Fatores de Risco
 
-Este projeto tem como objetivo realizar previsões acerca do Diabetes, identificando padrões e tendências no conjunto de dados médicos e demográficos dos pacientes. O Diabetes é uma doença crônica que impacta mais de meio bilhão de pessoas globalmente, então ferramentas preditivas como esta tornaram-se necessárias com o aumento de casos da doença para tentar ajudar os pacientes. Os dados aqui apresentados auxiliam profissionais de saúde a identificar cedo indivíduos em risco de desenvolver o diabetes e a desenvolver tratamentos de saúde personalizados. Além disso, pesquisadores também podem usá-los para estudar a relação entre as variáveis e desenvolvimento da doença, para melhorar políticas de saúde pública, entre outros exemplos.  
-
-
+# Resumo
 ---
-É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+O Diabetes é uma doença crônica causada pela produção insuficiente ou má absorção de insulina, hormônio que regula a glicose no sangue e garante energia para o organismo. Hoje, mais de meio bilhão de pessoas são afetadas pela condição, com um constante crescimento no número de casos nos últimos anos. Em decorrência disso, é importante facilitar a identificação da doença para a população em geral e para os profissionais da área da saúde, uma vez que o diagnóstico precoce e a rápida intervenção são essenciais para assegurar a qualidade de vida do paciente. Este projeto analisa um [conjunto de dados](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data) e tem como objetivo permitir a realização de previsões acerca do Diabetes, identificando padrões e tendências utilizando técnicas de Ciências de Dados.
+
+# Graphical Abstract
+---
+![Graphical Abstract](graphical_abstract/diabetes_graphical_abstract.png)
 
 ## Desenvolvedores
+---
  - [Maria Fernanda Cordeiro](https://github.com/Fernanda-Cordeiro)
  - [Nágila Duarte](https://github.com/NagilaDuarte)
  - [Nicole Souza](https://github.com/nicolesouzab)
