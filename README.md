@@ -13,6 +13,7 @@ Utilizando técnicas de Ciências de Dados e de Aprendizado de Máquina, foram r
  - [Nágila Duarte](https://github.com/NagilaDuarte)
  - [Nicole Souza](https://github.com/nicolesouzab)
  - [Paulo Eduardo de Souza](https://github.com/Paulo3078)
- - [Renan Teixeira](https://github.com/renantleite) 
+ - [Renan Teixeira](https://github.com/renantleite)
 
-</center>![Logo](logo/data_hive_logo.png)</center>
+
+![Logo](logo/data_hive_logo.png)
