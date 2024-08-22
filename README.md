@@ -1,10 +1,18 @@
-# Predição de Diabetes: Análise de Fatores de Risco e Classificação
+<p align="center">
+  <img src="data_hive_logo.png" alt="Logo" width="300"/>
+</p>
 
-## Resumo
-O Diabetes é uma doença crônica causada pela produção insuficiente ou má absorção de insulina, hormônio que regula a glicose no sangue e garante energia para o organismo. Hoje, mais de meio bilhão de pessoas são afetadas pela condição, com um constante crescimento no número de casos nos últimos anos. Em decorrência disso, é importante facilitar a identificação da doença para a população em geral e para os profissionais da área da saúde, uma vez que o diagnóstico precoce e a rápida intervenção são essenciais para assegurar a qualidade de vida do paciente. Este projeto analisa um [conjunto de dados](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data) e tem como objetivo permitir a realização de previsões acerca do Diabetes, identificando padrões e tendências utilizando técnicas de Ciências de Dados.
+<h1 align="center">Predição de Diabetes: Análise de Fatores de Risco e Classificação</h1>
+
+O Diabetes é uma doença crônica causada pela produção insuficiente ou má absorção de insulina, um hormônio essencial para a regulação da glicose no sangue. Mais de meio bilhão de pessoas são afetadas globalmente, e o número de casos tem crescido nos últimos anos. A identificação precoce da doença é crucial para garantir a qualidade de vida dos pacientes, ajudando a evitar complicações graves como cegueira, infarto e amputação de membros.
+## Metodologia
+Este projeto utiliza o [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data) para prever o risco de Diabetes, identificando padrões e tendências por meio de técnicas de [Ciência de Dados](https://en.wikipedia.org/wiki/Data_science) e [Aprendizado de Máquina](https://en.wikipedia.org/wiki/Machine_learning). Realizamos uma Análise Exploratória dos dados, preparações para garantir a qualidade dos dados e uma Análise Comparativa de Modelos para identificar o melhor modelo preditivo.
 
 ## Graphical Abstract
-![Graphical Abstract](graphical_abstract/diabetes_graphical_abstract.png)
+Este resumo gráfico ilustra o fluxo de trabalho do projeto, destacando os principais passos e resultados.
+
+
+  ![Graphical Abstract](graphical_abstract/diabetes_graphical_abstract.png)
 
 ## Desenvolvedores
  - [Maria Fernanda Cordeiro](https://github.com/Fernanda-Cordeiro)
@@ -12,4 +20,3 @@ O Diabetes é uma doença crônica causada pela produção insuficiente ou má a
  - [Nicole Souza](https://github.com/nicolesouzab)
  - [Paulo Eduardo de Souza](https://github.com/Paulo3078)
  - [Renan Teixeira](https://github.com/renantleite)
-
