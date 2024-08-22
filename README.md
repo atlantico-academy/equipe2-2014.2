@@ -15,7 +15,4 @@ Utilizando técnicas de Ciências de Dados e de Aprendizado de Máquina, foram r
  - [Paulo Eduardo de Souza](https://github.com/Paulo3078)
  - [Renan Teixeira](https://github.com/renantleite) 
 
-
-<div align="center">
-<img src="attachment:data_hive_logo.png" width="400">
-<div>
+![Logo](logo/data_hive_logo.png)
